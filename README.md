@@ -16,11 +16,16 @@ Antes de iniciar, verifique se você possui instalado em seu sistema:
 ## Estrutura de pastas
 ```bash
 .
-├── app.py                 # Código principal do dashboard
-├── data/                  # Arquivos CSV 
-├── requirements.txt       # Lista de dependências
-└── README.md              # Este guia
+├── app.py                 # código principal do dashboard
+├── data/                  # arquivos CSV 
+├── requirements.txt       # lista de dependências
+└── README.md              # este guia
 ```
+
+## Screenshots
+![Screenshot 1 - Filtros e cabeçalho](.github/images/dashboard1.png)
+![Screenshot 2](.github/images/dashboard2.png)
+![Screenshot 3](.github/images/dashboard3.png)
 
 ## Como utilizar
 
