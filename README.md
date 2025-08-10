@@ -15,10 +15,12 @@ Antes de iniciar, verifique se você possui instalado em seu sistema:
 
 ## Estrutura de pastas
 ```bash
-.
 ├── app.py                 # código principal do dashboard
-├── data/                  # arquivos CSV 
+├── data/                  # arquivos CSV (fonte de dados) 
 ├── requirements.txt       # lista de dependências
+├── .github
+    └── images/            # imagens utilizadas no arquivo README.md 
+├── .gitignore             # arquivos/pastas ignorados pelo Git
 └── README.md              # este guia
 ```
 
